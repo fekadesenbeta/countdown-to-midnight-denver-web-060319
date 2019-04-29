@@ -3,7 +3,7 @@
 def countdown(time)
   x = 10
  while x < 10
-  puts "#{x} is"
-  x += 1
+  puts HAPPY NEW YEAR!"
+  x -= 1
  end
 end
