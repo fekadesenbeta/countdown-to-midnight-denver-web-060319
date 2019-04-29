@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(time)
-  x = 10
+  time = 10
  while x < 10
   puts HAPPY NEW YEAR!"
   x -= 1
